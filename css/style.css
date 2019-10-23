@@ -739,6 +739,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio.centradoDemo{
   /* margin-right: 1rem; */
   text-align: center;
+
 }
 #portfolio.centradoCodigo {
   /* margin-right: 1rem; */
@@ -751,11 +752,21 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 3.3rem;
   width: 7rem;
   text-align: center;
+
 }
 #portfolio.portfolio-info {
   margin-right: 1rem;
 }
 
+.centradoCodigo{
+  margin-top: 150px;
+  padding: 5px;
+}
+
+
+/* .centradoDemo{
+  margin-top: 150px;
+} */
 /* Testimonials Section
 --------------------------------*/
 
