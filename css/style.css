@@ -759,7 +759,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .centradoCodigo{
-  margin-top: 150px;
+  /* margin-top: 150px; */
+  margin-top: 23px;
   padding: 5px;
 }
 
@@ -1073,7 +1074,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 .laboratoria {
   width: 20%;
 }
-
+.titulo{
+  font-size: 3em;
+    color: white;
+    margin-top: 1em;
+}
+.description{
+  flex-direction: row;
+  background-color: white;
+  width: 14em;
+  margin: auto;
+  border-radius: 0.5em;
+}
 @media (min-width: 768px) {
   #contact .contact-address,
   #contact .contact-phone,
@@ -1165,6 +1177,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 30px 10px;
   }
 }
+
 
 @media (max-width: 576px) {
   #contact #google-map {
